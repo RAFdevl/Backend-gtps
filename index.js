@@ -51,7 +51,7 @@ app.post('/player/validate/close', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-    res.send('Hello World!');
+    res.send('This Backend GROWVN You Can Use This Backend!');
 });
 
 app.listen(5000, function () {
